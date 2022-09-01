@@ -11,3 +11,10 @@ class Lab2Test {
         assertEquals(2, testLab2.tempNum);
     }
 }
+/*
+Eric Tangedal
+Lab 2
+CS113 1971
+Version 1.0
+08/31/2022
+ */

@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc2eb7a1-64ce-46f4-971f-e9334f9a31bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS113_Lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="dc2eb7a1-64ce-46f4-971f-e9334f9a31bb" name="Changes" comment="Completed Lab2 and Lab2Test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661986159550</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed Lab2 and Lab2Test">
+      <created>1661990453342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661990453342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Lab2 and Lab2Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Lab2 and Lab2Test" />
   </component>
 </project>
